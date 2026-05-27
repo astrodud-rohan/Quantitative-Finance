@@ -11,8 +11,8 @@ Full pipeline:
 
 Usage:
     python main.py                        # NIFTY 50 (synthetic if offline)
-    python main.py --ticker ^GSPC         # S&P 500
-    python main.py --ticker ^NSEI         # NIFTY 50 live
+    python main.py --ticker "^GSPC"       # S&P 500
+    python main.py --ticker "^NSEI"       # NIFTY 50 live
     python main.py --states 2             # 2-state model (bear/bull)
     python main.py --synthetic            # Always use synthetic data
 """
