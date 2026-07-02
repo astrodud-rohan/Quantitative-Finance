@@ -1,5 +1,5 @@
 """
-Constructs a representative 15-model inventory spanning credit, market, operational, compliance,
+Constructs a representative 18-model inventory spanning credit, market, operational, compliance,
 and pricing risk.
 """
 
