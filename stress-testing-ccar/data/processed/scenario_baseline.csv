@@ -1,0 +1,10 @@
+quarter,unemployment_rate,gdp_growth,hpi_growth,scenario
+Q1,4.45,2.2,3.0,Baseline
+Q2,4.5,2.19,2.96,Baseline
+Q3,4.55,2.18,2.92,Baseline
+Q4,4.6,2.16,2.89,Baseline
+Q5,4.54,2.15,2.85,Baseline
+Q6,4.48,2.14,2.81,Baseline
+Q7,4.42,2.12,2.78,Baseline
+Q8,4.36,2.11,2.74,Baseline
+Q9,4.3,2.1,2.7,Baseline

@@ -1,0 +1,10 @@
+quarter,unemployment_rate,gdp_growth,hpi_growth,scenario
+Q1,5.33,0.12,-0.33,Severely Adverse
+Q2,6.27,-1.25,-2.67,Severely Adverse
+Q3,7.2,-2.62,-5.0,Severely Adverse
+Q4,8.13,-4.0,-7.33,Severely Adverse
+Q5,9.07,-2.84,-9.67,Severely Adverse
+Q6,10.0,-1.68,-12.0,Severely Adverse
+Q7,8.83,-0.52,-8.33,Severely Adverse
+Q8,7.67,0.64,-4.67,Severely Adverse
+Q9,6.5,1.8,-1.0,Severely Adverse
