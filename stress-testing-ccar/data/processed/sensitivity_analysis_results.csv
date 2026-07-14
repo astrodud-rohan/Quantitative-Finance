@@ -1,0 +1,4 @@
+scenario,cumulative_loss_lag1_linear,cumulative_loss_lag2_linear,cumulative_loss_lag1_quadratic,pct_diff_lag2_vs_lag1,pct_diff_quadratic_vs_linear
+Baseline,4.31,3.9,4.53,-9.5,5.1
+Adverse,11.48,11.31,11.39,-1.5,-0.8
+Severely Adverse,17.36,17.6,19.87,1.4,14.5
