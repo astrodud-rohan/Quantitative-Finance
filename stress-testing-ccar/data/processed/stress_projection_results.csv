@@ -1,0 +1,28 @@
+quarter,unemployment_rate,gdp_growth,hpi_growth,scenario,unemployment_rate_lag1,projected_loss_rate,unemployment_rate_lag1_outside_range,gdp_growth_outside_range,hpi_growth_outside_range,any_extrapolation,cumulative_loss_rate
+Q1,4.45,2.2,3.0,Baseline,4.44,0.45616261262577473,False,False,False,False,0.45616261262577473
+Q2,4.5,2.19,2.96,Baseline,4.45,0.4617022893767404,False,False,False,False,0.9178649020025151
+Q3,4.55,2.18,2.92,Baseline,4.5,0.4813847524769894,False,False,False,False,1.3992496544795046
+Q4,4.6,2.16,2.89,Baseline,4.55,0.5003354466200356,False,False,False,False,1.8995851010995402
+Q5,4.54,2.15,2.85,Baseline,4.6,0.5200179097202846,False,False,False,False,2.4196030108198245
+Q6,4.48,2.14,2.81,Baseline,4.54,0.5008077103600046,False,False,False,False,2.920410721179829
+Q7,4.42,2.12,2.78,Baseline,4.48,0.4808657420425213,False,False,False,False,3.4012764632223504
+Q8,4.36,2.11,2.74,Baseline,4.42,0.46165554268224085,False,False,False,False,3.8629320059045913
+Q9,4.3,2.1,2.7,Baseline,4.36,0.44244534332196084,False,False,False,False,4.305377349226552
+Q1,5.02,1.12,1.0,Adverse,4.44,0.5456537110920792,False,False,False,False,0.5456537110920792
+Q2,5.64,0.25,-0.5,Adverse,5.02,0.816734722208216,False,False,False,False,1.3623884333002951
+Q3,6.26,-0.62,-2.0,Adverse,5.64,1.1019585196736366,False,True,False,True,2.4643469529739317
+Q4,6.88,-1.5,-3.5,Adverse,6.26,1.3869976980060235,False,True,False,True,3.8513446509799554
+Q5,7.5,-0.8,-5.0,Adverse,6.88,1.7012066993576982,False,True,False,True,5.552551350337653
+Q6,7.0,-0.1,-3.5,Adverse,7.5,1.851270753458495,False,True,False,True,7.4038221037961485
+Q7,6.5,0.6,-2.0,Adverse,7.0,1.6053367897793558,False,False,False,False,9.009158893575504
+Q8,6.0,1.3,-0.5,Adverse,6.5,1.3594028261002167,False,False,False,False,10.368561719675721
+Q9,5.5,2.0,1.0,Adverse,6.0,1.1134688624210776,False,False,False,False,11.4820305820968
+Q1,5.33,0.12,-0.33,Severely Adverse,4.44,0.5999627244032883,False,True,False,True,0.5999627244032883
+Q2,6.27,-1.25,-2.67,Severely Adverse,5.33,1.0173799583049445,False,True,False,True,1.617342682708233
+Q3,7.2,-2.62,-5.0,Severely Adverse,6.27,1.4519285253190353,False,True,False,True,3.069271208027268
+Q4,8.13,-4.0,-7.33,Severely Adverse,7.2,1.8827567766127722,False,True,True,True,4.95202798464004
+Q5,9.07,-2.84,-9.67,Severely Adverse,8.13,2.361025437521179,False,True,True,True,7.313053422161219
+Q6,10.0,-1.68,-12.0,Severely Adverse,9.07,2.8422826451927365,True,True,True,True,10.155336067353955
+Q7,8.83,-0.52,-8.33,Severely Adverse,10.0,2.9917142617752175,True,True,True,True,13.147050329129172
+Q8,7.67,0.64,-4.67,Severely Adverse,8.83,2.399196744844488,True,False,False,True,15.54624707397366
+Q9,6.5,1.8,-1.0,Severely Adverse,7.67,1.80966777467691,False,False,False,False,17.35591484865057
